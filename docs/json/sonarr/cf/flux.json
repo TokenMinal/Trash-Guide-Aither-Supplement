@@ -1,0 +1,19 @@
+{
+  "trash_id": "9d710768cd914b59801641e278605262",
+  "trash_scores": {
+    "default": 51
+  },
+  "name": "Kitsune",
+  "includeCustomFormatWhenRenaming": false,
+  "specifications": [
+    {
+      "name": "Kitsune",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": true,
+      "fields": {
+        "value": "^(Kitsune)$"
+      }
+    }
+  ]
+}
